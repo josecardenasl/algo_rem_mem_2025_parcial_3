@@ -55,4 +55,4 @@ Req: 0xf1 Direccion Fisica: 0x1ff Acción: Segmention Fault
 ## Autor.
 
  * Nombre completo:
-   Jose David Cardenas Lucas - LRU
+   Jose David Cardenas Lucas - LRU - Tema: IV
